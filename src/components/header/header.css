@@ -1,0 +1,43 @@
+#Navbar{
+  background-color: white;
+  height: 5em;
+}
+
+#black {
+  color: #000000;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+#NavItem{
+  padding-left: 20px;
+}
+
+#black22{
+  color: #000000;
+  font-size: 20px;
+  
+}
+
+#black2{
+  font-size: 47px;
+  font-weight: bold;
+  color: #02B875;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#green{
+  background-color: #02B875;
+}
+
+#Dropdown{
+  margin-right: 8em;
+}
+
+.is-active{
+  color: #02B875;
+}
+
+html {
+  scroll-behavior: smooth;
+}

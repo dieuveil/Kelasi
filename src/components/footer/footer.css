@@ -1,0 +1,41 @@
+html { height: 100%; }
+body {
+    min-height:100%; 
+    position:relative; 
+    padding-bottom:[footer-height] 
+}
+#footer { 
+    position: absolute; 
+    left: 0 ; right: 0; bottom: 0; 
+    height:[footer-height]; 
+}
+
+#Row2{
+    margin-top: 1em;
+  
+    height: 5em;
+}
+
+#Myleft1{
+    margin-right: 29em;
+    
+}
+
+#Myleft3{
+    margin-right: 15em;
+    color: #000000; 
+}
+
+#img7{
+    margin-top: 1px;
+    width: 15em;
+    height: 9em;
+}
+
+#mytext2{
+    margin-left: 10px;
+}
+
+#mytext3{
+    color: #000000;
+}

@@ -1,0 +1,21 @@
+#Limites{
+    width: 45em;
+}
+
+#paragraph2 {
+    text-indent: 50px;
+	text-align: justify;
+    letter-spacing: 3px;
+    color: rgba(0, 0, 0, 0.84);
+    
+  }
+
+#r_intro{
+    width: 50em;
+    height: 170em;
+    margin-top: 15px;
+}
+
+#introduction{
+    margin-top: 2px;
+}
